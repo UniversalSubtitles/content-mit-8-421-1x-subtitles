@@ -42,7 +42,7 @@ The cloud goes up and goes down.
 And you integrate it twice.
 And the interrogation time is one second.
 And this interrogation time is no longer as in the convention
-atomic clocks, limited by the sum of velocity of the atom.
+atomic clocks, limited by the thermal velocity of the atom.
 It's limited by gravity.
 If you want to increase the time to 10 seconds,
 you need 100 meter tower.
