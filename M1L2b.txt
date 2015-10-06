@@ -91,7 +91,7 @@ in "Nature." just a few weeks ago.
 
 Here is a level diagram of atomic strontium.
 And what happens is, there is a very fast transition,
-is to p transition for laser cooling and tracking
+is two p transition for laser cooling and tracking
 and all that.
 but then there is a very, very slow transition
 for p to a triplet state, which is made stable.
