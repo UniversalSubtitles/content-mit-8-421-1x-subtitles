@@ -39,7 +39,7 @@ And the current experiment is that we
 have a cloud that is coming to microwaving temperature.
 You launch it into a fountain.
 The cloud goes up and goes down.
-And you integrate it twice.
+And you interrogate it twice.
 And the interrogation time is one second.
 And this interrogation time is no longer as in the convention
 atomic clocks, limited by the sum of velocity of the atom.
