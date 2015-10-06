@@ -180,7 +180,7 @@ had I think 10 to the minus 17 precision,
 but 6 times 10 to the minus 18 is close to that.
 So they are close,
 or they are better now than the aluminum clock.
-But the aluminum clock is a single ion.
+But the aluminum clock is a similar ion.
 You have to average for much, much longer time
 to get this precision.
 So there's a big advantage for the strontium
