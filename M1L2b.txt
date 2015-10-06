@@ -33,7 +33,7 @@ And for decades, this frequency was determined
 in an atomic beam with an atomic cesium beam
 and you interrogated it with microwave fields.
 But now with cold atoms, we can achieve much, much longer
-interrogatin times by completely--
+interrogation times by completely--
 by almost completely eliminating the atomic motion.
 And the current experiment is that we
 have a cloud that is coming to microwaving temperature.
