@@ -35,8 +35,8 @@ and you interrogated it with microwave fields.
 But now with cold atoms, we can achieve much, much longer
 interrogatin times by completely--
 by almost completely eliminating the atomic motion.
-And the current experiment is that we
-have a cloud that is coming to microwaving temperature.
+And the current experiment is that you
+have a cloud laser cool two microKelvin temperature.
 You launch it into a fountain.
 The cloud goes up and goes down.
 And you integrate it twice.
