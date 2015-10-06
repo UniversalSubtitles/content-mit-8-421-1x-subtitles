@@ -94,7 +94,7 @@ And what happens is, there is a very fast transition,
 is to p transition for laser cooling and tracking
 and all that.
 but then there is a very, very slow transition
-for p to a triplet state, which is made stable.
+for p to a triplet state, which is metastable.
 And this transition, this-- those states
 have a very long lifetime.
 And therefore, this transition is extremely nimble level.
